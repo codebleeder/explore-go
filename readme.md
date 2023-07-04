@@ -1,4 +1,4 @@
-learning go
+# learning go
 
 steps to initialize go:
 1. go mod init <package_name>
